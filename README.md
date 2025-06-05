@@ -3,7 +3,7 @@
 **Access the lesson:** [Lesson notebook](https://github.com/bensethbell/safe-prompt-design/blob/main/safe_prompt_design_lesson.ipynb)  
 **Access the solution:** [Solution notebook](https://github.com/bensethbell/safe-prompt-design/blob/main/safe_prompt_design_solution.ipynb)
 
-This notebook demonstrates how structured prompt design can guide the behavior of large language models (LLMs), with a focus on safety, steerability, and responsible AI development. Inspired by Claude's alignment philosophy, the notebook introduces best practices for wrapping user queries with system prompts, applying role conditioning, and creating domain-aware scaffolds.
+This lesson demonstrates how structured prompt design can guide the behavior of large language models (LLMs), with a focus on safety, steerability, and responsible AI development. Inspired by Claude's alignment philosophy, the notebook introduces best practices for wrapping user queries with system prompts, applying role conditioning, and creating domain-aware scaffolds.
 
 ## Learning Objectives
 
